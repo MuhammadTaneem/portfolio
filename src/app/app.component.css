@@ -1,0 +1,14 @@
+.mat-tab-group {
+  margin-bottom: 48px;
+}
+.fixedButton {
+  position: fixed;
+  z-index:5;
+  top : 20px;
+  right: 30px;
+  background-color: transparent;
+}
+
+.dashboard{
+  min-height: 80vh;
+}
